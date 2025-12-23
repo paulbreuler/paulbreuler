@@ -8,7 +8,7 @@ I lead engineering teams building production systems at the intersection of robo
 
 - **8 years at Microsoft** - Co-created ALM workshop and service for Power Platform @ $5 million annually over 72% margin. Presented, coached, mentored, and implemented full scale solutions globally 
 - **Founded Maktelier** - Developer MAPF and digital twin solution for warehouse pallet shuttle robotics (acquired)  
-- **Current focus** - UNITI platform architecture at Thread
+- **Current focus** - Learning new things and buidling embedded AI solutions
 
 ---
 
