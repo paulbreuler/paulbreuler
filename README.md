@@ -18,7 +18,7 @@
 
 
   - Voice agents on Raspberry Pi and ESP32 prototypes with **Gemini Live** bidirectional real-time streaming
-  - Open-source Rust crate for Chipp.ai API integration -> [https://crates.io/crates/chipp](https://crates.io/crates/chipp)
+  - Open-source Rust crate for Chipp.ai API integration -> [Chipp Crate](https://crates.io/crates/chipp)
   - BVLOS drones, multi-agent MAPF, hardware-agnostic autonomy for utilities & warehouses
 
   **Open to:** Founding new ventures, fractional CTPO roles, or AI/mobile robotics/supply chain/inspection software and integrations
