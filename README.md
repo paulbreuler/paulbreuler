@@ -1,37 +1,24 @@
 <div align="center">
   <h1>Paul Breuler</h1>
 
-  **CTPO & MAPF Software + SaaS + Mobile Robotics (ASRS) Founder Exit**  
-  Building Edge AI Voice Interfaces, Autonomous Robotics & Enterprise SaaS
+  **Founder & CTPO — [BaseState](https://basestate.io)**
+
+  Built and exited. Scaled at Microsoft. Now back to building.
 
   [LinkedIn](https://www.linkedin.com/in/paulbreuler) • [X](https://x.com/PaulBreuler) • [TryHackMe](https://tryhackme.com/p/Sudostonk)
 
-  <!-- Tech Badges -->
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Gemini Live API](https://img.shields.io/badge/Gemini_Live_API-4285F4?style=flat-square&logo=google&logoColor=white)
-  ![Edge AI](https://img.shields.io/badge/Edge_AI-FF6B6B?style=flat-square&logo=raspberry-pi&logoColor=white)
-  ![Robotics](https://img.shields.io/badge/Robotics-2ECC71?style=flat-square&logo=robot&logoColor=white)
 </div>
-  Hands-on leader who founded & exited (7-figure IP acquisition), scaled at Microsoft, and now prototypes cutting-edge edge AI:
 
+### Now
 
-  - Voice agents on Raspberry Pi and ESP32 prototypes with **Gemini Live** bidirectional real-time streaming
-  - Open-source Rust crate for Chipp.ai API integration -> [Chipp Crate](https://crates.io/crates/chipp)
-  - BVLOS drones, multi-agent MAPF, hardware-agnostic autonomy for utilities & warehouses
+Building **[Alder](https://basestate.io)** — utilities lose their inspection data the moment a work order closes. I'm fixing that.
 
-  **Open to:** Founding new ventures, fractional CTPO roles, or AI/mobile robotics/supply chain/inspection software and integrations
+### Before
 
-### 🔭 Current Focus
-- Edge AI voice prototypes (Rust, Gemini Live API, constrained hardware)
+Microsoft → 7-figure IP acquisition exit in MAPF robotics → Led product + engineering for autonomous drone inspection platforms (BVLOS, one operator to many drones) → Shipped edge AI voice agents on constrained hardware
 
-### 🛠️ Key Projects
-- Chipp Edge Companion (Rust-based voice AI orchestrator)
-- Open-source Chipp.ai Rust client crate
-- UNITI 4 and UNITI Capture full end-to-end mission planning, autonomous execution, BVLOS (one operator to many drones) inspections, data capture and data refining SaaS and Flutter cross-platform application for field and UAS ops. 
-- Multi-agent warehouse robotics (MAPF + digital twins)
-  
----
+### Open Source
 
-Let's connect if you're building real-world AI, robotics, or edge systems!
+- [runi](https://github.com/paulbreuler/runi) — API client that verifies what AI generates. Local-first, git-friendly, spec-bound.
+- [limps](https://github.com/paulbreuler/limps) — Lightweight planning system for software projects
+- UrDocs - COMING SOON! 
